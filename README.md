@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Eltaib</h1>
-<h3 align="center">A passionate frontend developer and 2nd year student at TMU</h3>
+<h3 align="center">A passionate frontend developer and 2nd year student at Toronto Metropolitan University</h3>
 
 - 👨‍💻 All of my projects are available at [www.mohamedeltaib.ca/](https://mohamedeltaib.ca/)
 
