@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **moeltaib1@gmail.com**
 
+- 💼 My LinkedIn www.linkedin.com/in/mohamed-eltaib-cs
+
 <p align="left">
 </p>
 
