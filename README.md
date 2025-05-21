@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Eltaib</h1>
 <h3 align="center">A passionate fullstack developer and 3rd year student at Toronto Metropolitan University</h3>
 
-- 👨‍💻 All of my projects are available at [www.mohamedeltaib.ca/](https://mohamedeltaib.ca/)
+- 👨‍💻 All of my projects are available at [[www.mohamedeltaib.ca/](https://mohamedeltaib.ca/)](https://ryzenstudios.github.io/Portfolio/)
 
 - 📫 How to reach me **moeltaib1@gmail.com**
 
